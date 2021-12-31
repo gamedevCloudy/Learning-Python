@@ -1,5 +1,5 @@
 a,b = 0,1
-while b < 10: #while loop - stays true until the condition is met. If b >= 10 loop will break 
+while b < 69: #while loop - stays true until the condition is met. If b >= 69 loop will break 
     print(b)
     a, b = b, a+b
 
